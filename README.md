@@ -1,4 +1,4 @@
-project link : https://github.com/kineneibrahim/CV/blob/main/CV.zip
+https://roadmap.sh/projects/single-page-cv
 # CV
 Its an html and css project
 This project was made using a phone,
